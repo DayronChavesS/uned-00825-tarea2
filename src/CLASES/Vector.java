@@ -1,0 +1,32 @@
+/*
+UNIVERSIDAD ESTATAL A DISTANCIA
+VICERRECTORIA ACADÉMICA
+ESCUELA DE CIENCIAS EXACTAS Y NATURALES
+CARRERA DE INGENIERÍA INFORMÁTICA
+
+TAREA 2
+PILAS ESTATICAS EN JAVA
+
+GRUPO 03
+PROFESORA MIRIAM MORA MORALES
+
+DAYRON ANTONY CHAVES SANDOVAL
+305240018
+
+CENTRO UNIVERSITARIO DE TURRIALBA
+
+FECHA DE ENTREGA
+11 DE ABRIL DEL 2021
+
+PRIMER CUATRIMESTRE, 2021.
+*/
+
+package CLASES;
+
+
+public final class Vector 
+{
+    //se crea el vector peliculas estatico para tener accesibilidad en todo el programa.
+    public static Pelicula[] VectorPeliculas = new Pelicula[0];
+    
+}

@@ -1,0 +1,36 @@
+/*
+UNIVERSIDAD ESTATAL A DISTANCIA
+VICERRECTORIA ACADÉMICA
+ESCUELA DE CIENCIAS EXACTAS Y NATURALES
+CARRERA DE INGENIERÍA INFORMÁTICA
+
+TAREA 2
+PILAS ESTATICAS EN JAVA
+
+GRUPO 03
+PROFESORA MIRIAM MORA MORALES
+
+DAYRON ANTONY CHAVES SANDOVAL
+305240018
+
+CENTRO UNIVERSITARIO DE TURRIALBA
+
+FECHA DE ENTREGA
+11 DE ABRIL DEL 2021
+
+PRIMER CUATRIMESTRE, 2021.
+*/
+
+import GUI.*;
+import CLASES.*;
+import LOGICA.Metodo;
+import java.util.Stack;
+
+public class Main 
+{
+    public static void main(String[] args) 
+    {
+        new FormPantallaPrincipal().setVisible(true);
+        //Metodo.llenartodo();
+    }   
+}
